@@ -154,11 +154,11 @@ button {
   display: none;
 }
 
-.edit-list .editMode .input-text {
+.edit-list .edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.edit-list .editMode .task-list-label {
+.edit-list .edit-mode .task-list-label {
   display: none;
 }
