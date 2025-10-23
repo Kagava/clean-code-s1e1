@@ -149,6 +149,17 @@ button {
   color: #888;
 }
 
+.complete-list .list-item .input-text {
+  display: none;
+}
+.complete-list .edit-mode .input-text {
+  display: inline-block;
+  width: 224px;
+}
+.complete-list .edit-mode .task-list-label {
+  display: none;
+}
+
 /* Edit Task */
 .edit-list .list-item .input-text {
   display: none;
